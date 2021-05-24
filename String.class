@@ -1,0 +1,13 @@
+public class Strings {
+
+    public static void main(String[] args) {
+
+        var string = new String(" Minha String ");
+
+        System.out.println("Char na posição :" + string.charAt(5));
+
+
+        
+        
+    }
+}
